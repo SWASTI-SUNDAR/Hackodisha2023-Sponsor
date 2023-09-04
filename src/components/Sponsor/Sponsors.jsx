@@ -81,6 +81,14 @@ const SponsorData = [
         alt: "POLYGON LOGO",
         link: "https://polygon.technology/",
       },
+      {
+        name: "fasten",
+        logo: "/Images/SponsorLogos/fastn.png",
+        width: 300,
+        height: 150,
+        alt: "FASTEN LOGO",
+        link: "https://fasten.com/",  
+      }
     ],
   },
   {
@@ -154,14 +162,6 @@ const SponsorData = [
         height: 100,
         alt: "ECHO3D LOGO",
         link: "https://www.echo3d.com/",
-      },
-      {
-        name: "Taskade",
-        logo: "/Images/SponsorLogos/taskade.png",
-        width: 200,
-        height: 100,
-        alt: "TASKADE LOGO",
-        link: "https://taskade.com/",
       },
       {
         name: "Axure",
